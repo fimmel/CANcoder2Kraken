@@ -17,7 +17,7 @@ This is a small board that allows the CANcoder to havve a Molex SL connectoir at
 ## Assembly
 
 ### Gather Parts
-![Alttext](/Images/Gather%20Parts.jpg)
+![Alttext](/Images/Gather-Parts.jpg)
 
 ### Cut Pin Headers Apart
 
