@@ -10,15 +10,14 @@ This is a small board that allows the CANcoder to havve a Molex SL connectoir at
 - [Flush Cutters](https://www.digikey.com/en/products/detail/american-hakko-products-inc/CHP-170/6228793)
 - Helping hands (Not required, but helps)
 - [Molex SL Crimper](https://www.digikey.com/en/products/detail/molex/0638118700/1832243) (Usually an option in FIRST Choice)
-- [Molex 0016020102 Crimp Connextors](https://www.digikey.com/en/products/detail/molex/0016020102/115053)
+- [Molex 0016020102 Crimp Connectors](https://www.digikey.com/en/products/detail/molex/0016020102/115053)
 - [Molex 0050579404 4 Position Housings](https://www.digikey.com/en/products/detail/molex/0050579404/115057)
 - 22 AWG Wire - We use [This](https://www.digikey.com/en/products/detail/alpha-wire/2466C-SL013/12471133)
 
 ## Assembly
 
-![Alttext](imageurl)
-
 ### Gather Parts
+![Alttext](/Images/Gather Parts.jpg)
 
 ### Cut Pin Headers Apart
 
