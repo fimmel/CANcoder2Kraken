@@ -80,6 +80,7 @@ Trim the case to fit over the PCB
 **Cut 2**
 
 ![Alttext](/Images/Cut2.jpg)
+
 Repeat both cuts on either side.
 
 **Final Case**
