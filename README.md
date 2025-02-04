@@ -25,6 +25,8 @@ Your kit will include everything below except the CANcoder itself. You will also
 
 Take you stip of pin headers and use the flush cutters to cut 2 singles and 2 doubles.
 ![Alttext](/Images/Cut-Pins.jpg)
+> [!TIP]
+> Cut them into your hand as they will go flying. We have incuded a few spare pins just in case.
 
 ### Insert Headers into boards
 
