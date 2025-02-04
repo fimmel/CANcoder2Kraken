@@ -73,16 +73,16 @@ Solder the pins on the connector.
 ### Trim Case
 Trim the case to fit over the PCB
 
-** Cut 1 **
+**Cut 1**
 
 ![Alttext](/Images/Cut1.jpg)
 
-** Cut 2 **
+**Cut 2**
 
 ![Alttext](/Images/Cut2.jpg)
 Repeat both cuts on either side.
 
-** Final Case **
+**Final Case**
 
 ![Alttext](/Images/FinalCase.jpg)
 > [!IMPORTANT]
