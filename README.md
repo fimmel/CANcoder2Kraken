@@ -17,9 +17,14 @@ This is a small board that allows the CANcoder to havve a Molex SL connectoir at
 ## Assembly
 
 ### Gather Parts
+
+Your kit will include everything below except the CANcoder itself. You will also need the stuff listed above.
 ![Alttext](/Images/Gather%20Parts.jpg)
 
 ### Cut Pin Headers Apart
+
+Take you stip of pin headers and use the flush cutters to cut 2 singles and 2 doubles.
+![Alttext](/Images/Cut-Pins.jpg)
 
 ### Insert Headers into boards
 
