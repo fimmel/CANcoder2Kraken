@@ -30,10 +30,13 @@ Take you stip of pin headers and use the flush cutters to cut 2 singles and 2 do
 Place your CANcoder into the helping hands with the magnet sensor down (wire lables up) and inser the pins. The 2 sets of 2 will be for CAN high and CAN low.
 ![Alttext](/Images/Insert-Pins.jpg)
 
+### Place PCB
+Make sure the outline of the connector is on the top and place the PCB on the pins.
+![Alttext](/Images/Add-Board.jpg)
 
 ### Solder 1 pin on both sides
 Using your soldering iron, solder the same pin on both sides. 
-![Alttext](/Images/Insert-Pins.jpg)
+
 > [!TIP]
 > After soldering one side, let it cool, then carefully flip it over like you are flipping a grilled cheese and you don't want the cheese to fall out. Then solder the other side.
 
