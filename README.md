@@ -44,9 +44,11 @@ Using your soldering iron, solder the same pin on both sides.
 We want the board to be level or angle slightly down.
 
 **Bad Alignment**
+
 ![Alttext](/Images/Bad-Alignment.jpg)
 
 **Good Alignment**
+
 ![Alttext](/Images/Good-Alignment.jpg)
 
 > [!WARNING]
@@ -55,21 +57,42 @@ We want the board to be level or angle slightly down.
 To adjust the alignment heat up the one soldered pin and adjust the board.
 
 ### Solder Remaining Pins
+Solder the remaining pins on both sides avoiding the pin already soldered.
 
 ### Trim Height
+Cut off the excess height of the pins on the top side with your flush cutters.
+> [!WARNING]
+> Be sure to wear safety glasses!
 
 ### Insert Connector
+Insert the Molex connector into the PCB, it will snap in place and make take some force. Be careful ont to put stress on the solder joints we just make or bend any pins on the connector.
 
 ### Solder Pins
+Solder the pins on the connector.
 
 ### Trim Case
+Trim the case to fit over the PCB
 
+** Cut 1 **
+
+![Alttext](/Images/Cut1.jpg)
+
+** Cut 2 **
+
+![Alttext](/Images/Cut2.jpg)
+Repeat both cuts on either side.
+
+** Final Case **
+
+![Alttext](/Images/FinalCase.jpg)
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> Be gentle and make sure not to crack the rest of the case. if you do end up cracking it. replacements can be ordered from CTRE.
 
 ### Assemble
+Attach the bottom ofthe case to your robot where you normally would. insert the PCB assembly adnd affix the cover!
 
 ### Make Cable
+Make the 4pin molex cable. Instructions and tips coming!
 
 
 
